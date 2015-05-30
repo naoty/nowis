@@ -9,7 +9,7 @@ $ go get github.com/naoty/nowis
 ## Usage
 
 ```
-$ nowis sunday && echo "Today is Sunday!"
+$ nowis sunday && echo 'Today is Sunday!'
 ```
 
 ## Author
