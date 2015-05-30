@@ -16,7 +16,7 @@ func main() {
 	app.Author = "Naoto Kaneko"
 	app.Email = "naoty.k@gmail.com"
 	app.Version = "0.1.0"
-	app.Usage = "Ask when is now"
+	app.Usage = "Answer when now is"
 	app.Action = nowis
 	app.Run(os.Args)
 }
